@@ -1,7 +1,13 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":1,"list":[{"code":121,"indent":0,"parameters":[4,4,0]},{"code":121,"indent":0,"parameters":[5,5,1]},{"code":121,"indent":0,"parameters":[6,6,1]},{"code":121,"indent":0,"parameters":[7,7,1]},{"code":121,"indent":0,"parameters":[8,8,1]},{"code":223,"indent":0,"parameters":[[-200,-200,0,100],60,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Night","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":121,"indent":0,"parameters":[4,4,1]},{"code":121,"indent":0,"parameters":[5,5,0]},{"code":121,"indent":0,"parameters":[6,6,1]},{"code":121,"indent":0,"parameters":[7,7,1]},{"code":121,"indent":0,"parameters":[8,8,1]},{"code":223,"indent":0,"parameters":[[-17,-17,-17,17],60,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Morning","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":121,"indent":0,"parameters":[4,4,1]},{"code":121,"indent":0,"parameters":[5,5,1]},{"code":121,"indent":0,"parameters":[6,6,0]},{"code":121,"indent":0,"parameters":[7,7,1]},{"code":121,"indent":0,"parameters":[8,8,1]},{"code":223,"indent":0,"parameters":[[25,24,20,17],60,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Day","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":121,"indent":0,"parameters":[7,7,0]},{"code":121,"indent":0,"parameters":[5,5,1]},{"code":121,"indent":0,"parameters":[6,6,1]},{"code":121,"indent":0,"parameters":[4,4,1]},{"code":121,"indent":0,"parameters":[8,8,1]},{"code":223,"indent":0,"parameters":[[0,-40,-85,0],60,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Evening","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":121,"indent":0,"parameters":[8,8,0]},{"code":121,"indent":0,"parameters":[5,5,1]},{"code":121,"indent":0,"parameters":[6,6,1]},{"code":121,"indent":0,"parameters":[7,7,1]},{"code":121,"indent":0,"parameters":[4,4,1]},{"code":223,"indent":0,"parameters":[[-255,-255,-85,136],60,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Late Night","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":121,"indent":0,"parameters":[8,8,1]},{"code":121,"indent":0,"parameters":[5,5,1]},{"code":121,"indent":0,"parameters":[6,6,1]},{"code":121,"indent":0,"parameters":[7,7,1]},{"code":121,"indent":0,"parameters":[4,4,1]},{"code":223,"indent":0,"parameters":[[0,0,0,0],60,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Unknown Time","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
