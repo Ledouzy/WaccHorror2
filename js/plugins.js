@@ -23,5 +23,6 @@ var $plugins =
 {"name":"HPConsumeSkill","status":true,"description":"make the skill that consumes HP, not only MP and/or TP","parameters":{"Consume HP Color":"17"}},
 {"name":"PSYCHRONIC_RaveLighting","status":true,"description":"Adds customizable lighting effects to events with various patterns and controls, featuring enhanced bloom effects for a more heavenly glow.","parameters":{"lightBuffer":"350","darknessGamma":"1.00","Custom Light Types":"[]"}},
 {"name":"DotMoveSystem","status":false,"description":"Dot movement system v2.2.4","parameters":{}},
-{"name":"HIME_FollowerEventTouch","status":true,"description":"v1.1 - when an event touches a follower, the event will be\r\ntriggered as if it touched the player.","parameters":{}}
+{"name":"HIME_FollowerEventTouch","status":true,"description":"v1.1 - when an event touches a follower, the event will be\r\ntriggered as if it touched the player.","parameters":{}},
+{"name":"GALV_DisableDash","status":true,"description":"Disable dash in your game.","parameters":{"Disable Option":"true"}}
 ];
