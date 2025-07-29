@@ -3,17 +3,12 @@
 var $plugins =
 [
 {"name":"Theo_DisableTouchUI","status":true,"description":"Removes the touch UI and reposition the menu accordingly","parameters":{}},
-{"name":"AdjustPictureGraphical","status":false,"description":"Plugin that adjust picture to graphical","parameters":{"GridSize":"48","TestMapId":"-1"}},
 {"name":"ChangeEquipOnBattleMZ","status":true,"description":"[Ver1.1.0]Add equipment change command to actor commands","parameters":{"commandName":"Equip"}},
-{"name":"Foreground","status":false,"description":"display foreground tiling sprite(Ver1.1)","parameters":{}},
 {"name":"ForegroundParallax","status":true,"description":"Shows foreground parallax that can be used for fogs.","parameters":{}},
 {"name":"GALV_AnimatedBattleback","status":false,"description":"(v.1.0) Allows you to use a battleback image with multiple frames for animated backgrounds in battle","parameters":{}},
-{"name":"MenuSubMembersMZ","status":false,"description":"Display sub members at menu window and map as followers","parameters":{"subMemberIdVal1":"1","subMemberIdVal2":"2","subMemberIdVal3":"3","subMemberIdVal4":"4","subMemberText":"Sub Members","displayIfNone":"false","subMemberNoneText":"None","DisplayOnMap":"true","additionalFollower":"4"}},
 {"name":"ODUE_BattleBack","status":true,"description":"(ver1.2) Battle Background effects plugin","parameters":{}},
-{"name":"PictureAnimation","status":false,"description":"Picture Animation","parameters":{"returnToFirstCell":"true"}},
 {"name":"Scale_EnemyPlacement","status":true,"description":"v1.0 Scale Enemy Placement","parameters":{}},
 {"name":"ScreenZoom","status":true,"description":"Zoom screen whose center is specified character or player.","parameters":{}},
-{"name":"ShiftEnemies","status":false,"description":"Adjust the enemy placement according to your game resolution automatically.  Tweaked by Restart for MV","parameters":{}},
 {"name":"ShakingChange","status":true,"description":"Change the screen shake to vertical shaking","parameters":{"Switch ID":"0"}},
 {"name":"Yami_8DirEx","status":true,"description":"Player can 8-dir move, also touch input movement.","parameters":{"dir4 Switch ID":"100"}},
 {"name":"WeatherOnBattle","status":true,"description":"display weather not only map but also battle","parameters":{}},
