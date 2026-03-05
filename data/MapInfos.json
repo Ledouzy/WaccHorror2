@@ -66,5 +66,6 @@ null,
 {"id":64,"expanded":false,"name":"Otherworld","order":63,"parentId":2,"scrollX":1131,"scrollY":637},
 {"id":65,"expanded":true,"name":"World4-2","order":49,"parentId":55,"scrollX":1568,"scrollY":800},
 {"id":66,"expanded":false,"name":"ClassroomEnding","order":67,"parentId":0,"scrollX":1131,"scrollY":637},
-{"id":67,"expanded":false,"name":"World4-4","order":50,"parentId":55,"scrollX":816,"scrollY":1282}
+{"id":67,"expanded":false,"name":"World4-4","order":50,"parentId":55,"scrollX":816,"scrollY":1282},
+{"id":68,"expanded":false,"name":"LemonRoom","order":68,"parentId":0,"scrollX":1508,"scrollY":850}
 ]
