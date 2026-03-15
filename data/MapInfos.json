@@ -65,9 +65,9 @@ null,
 {"id":63,"expanded":false,"name":"Lab","order":67,"parentId":0,"scrollX":1131,"scrollY":637},
 {"id":64,"expanded":false,"name":"Otherworld","order":64,"parentId":2,"scrollX":1131,"scrollY":637},
 {"id":65,"expanded":true,"name":"World4-2","order":50,"parentId":55,"scrollX":1261,"scrollY":800},
-{"id":66,"expanded":false,"name":"ClassroomEnding","order":68,"parentId":0,"scrollX":1131,"scrollY":637},
+{"id":66,"expanded":false,"name":"ClassroomEnding","order":68,"parentId":0,"scrollX":816,"scrollY":624},
 {"id":67,"expanded":false,"name":"World4-4","order":51,"parentId":55,"scrollX":1139,"scrollY":1282},
 {"id":68,"expanded":false,"name":"LemonRoom","order":46,"parentId":54,"scrollX":1261,"scrollY":1342},
 null,
-{"id":70,"expanded":false,"name":"LabyrinthTest","order":69,"parentId":0,"scrollX":6032,"scrollY":3354.6666666666665}
+{"id":70,"expanded":false,"name":"LabyrinthTest","order":69,"parentId":0,"scrollX":2188,"scrollY":640}
 ]
