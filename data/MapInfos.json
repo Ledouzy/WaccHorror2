@@ -69,7 +69,7 @@ null,
 {"id":67,"expanded":false,"name":"World4-4","order":52,"parentId":55,"scrollX":2604,"scrollY":1282},
 {"id":68,"expanded":false,"name":"LemonRoom","order":47,"parentId":54,"scrollX":1261,"scrollY":1342},
 {"id":69,"expanded":false,"name":"Road","order":71,"parentId":0,"scrollX":1696.5,"scrollY":943.5},
-{"id":70,"expanded":false,"name":"LabyrinthTest","order":70,"parentId":0,"scrollX":1708.5,"scrollY":11332.5},
+{"id":70,"expanded":false,"name":"LabyrinthTest","order":70,"parentId":0,"scrollX":1697.3333333333333,"scrollY":838.6666666666666},
 {"id":71,"expanded":false,"name":"test","order":72,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":72,"expanded":false,"name":"start","order":1,"parentId":0,"scrollX":1696.5,"scrollY":955.5}
 ]
