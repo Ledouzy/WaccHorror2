@@ -385,7 +385,7 @@
         ve.src = path;
         ve.preload = "auto";
         ve.loop = false;
-        ve.muted = true;
+        ve.muted = false;
         const sp = new PIXI.Sprite(PIXI.Texture.from(ve));
         sp.width = Graphics.width;
         sp.height = Graphics.height;
@@ -424,7 +424,7 @@
                 ve.src = fp;
                 ve.preload = "auto";
                 ve.loop = true;
-                ve.muted = true;
+                ve.muted = false;
                 this._backgroundVideo = new PIXI.Sprite(PIXI.Texture.from(ve));
                 const app = Graphics.app || PIXI.Application.shared;
                 const sw = Graphics.width;
